@@ -15,7 +15,7 @@ class Student{
     }
     public  Student(String name, char gender) {
    this.name = name ;
-   this.gender = gender ; 
+   this.gender = gender ;
     }
     public void display() {
         if(name == "Unknown")
